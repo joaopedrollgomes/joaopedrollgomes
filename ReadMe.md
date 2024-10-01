@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Graduando em Engenharia da Computação - UNINASSAU.<br>👨‍💻Cursando Trainee realizado por a Softex Pernambuco em Desenvolvimento Web Front End - React.js.<br><br>💡Estou em busca de contribuir ativamente para projetos inovadores e, ao mesmo tempo, adquirir experiências aplicando meu aprendizado em desenvolvimento de software.<br>
+💻Graduando em Engenharia da Computação - UNINASSAU.<br>💡Estou em busca de contribuir ativamente para projetos inovadores e, ao mesmo tempo, adquirir experiências aplicando meu aprendizado em desenvolvimento de software.<br>
 
 
 ## 🌐 Socials:
